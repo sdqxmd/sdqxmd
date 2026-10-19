@@ -1,82 +1,127 @@
-<h1 align="center">⚡ Mohammad Sadique</h1>
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=110&section=header" alt="Cyan wave header" />
 
-<h3 align="center">
-Electrical Engineering • Robotics • Embedded Systems
-</h3>
+<h1 align="center">⚡ Hey, I'm Mohammad Sadique</h1>
+
+<h3 align="center">Circuits • Code • Control</h3>
 
 <p align="center">
-  <b>Circuits that sense. Code that decides. Machines that move.</b>
+  Building things that <b>sense the world</b>, <b>make decisions</b>, and <b>move with purpose</b>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsdq/"><b>LinkedIn</b></a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mohdsadique6970942@gmail.com"><b>Email</b></a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/sdqxmd?tab=repositories"><b>Explore My Projects</b></a>
-</p>
-
-<p align="center">
-  <code>ROBOTICS</code>
-  <code>CONTROL SYSTEMS</code>
-  <code>POWER ELECTRONICS</code>
-  <code>EMBEDDED & IoT</code>
+  <a href="https://www.linkedin.com/in/mdsdq/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohdsadique6970942@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/sdqxmd?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_My_Builds-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="My repositories" />
+  </a>
 </p>
 
 ---
 
-## ⚡ About Me
+<!-- INTRO -->
+<table>
+<tr>
+<td width="70%" valign="center">
 
-I'm a final-year **B.Tech Electrical Engineering student at Jamia Millia Islamia, New Delhi (2023–2027)**.
+<h3>🔌 Welcome to my workbench</h3>
 
-I enjoy building systems that connect the physical world with software—whether that means making a robot follow a precise trajectory, automating irrigation, or studying faults in a solar inverter.
+I'm an **Electrical Engineering student at Jamia Millia Islamia**, drawn to the point where electronics become intelligent machines.
 
-- 🤖 **Robotics:** Mobile robots, sensor integration, localization, and motion control.
-- 🔌 **Electrical engineering:** Power electronics, voltage regulation, and renewable energy systems.
-- 🛠️ **Embedded systems:** ESP32/Arduino firmware, real-time sensing, and hardware–software integration.
-- 📊 **Measurement:** Calibration, live visualization, and data logging.
-- 🌱 **Currently exploring:** IoT and machine learning for predictive maintenance.
+🤖 **Robots** that turn sensor readings into motion.  
+⚡ **Electrical systems** that can be modeled and understood.  
+📡 **Embedded devices** that connect hardware with software.  
+☀️ **Energy systems** whose faults can be studied through data.
 
-## 🤖 Featured Projects
+Give me a microcontroller, a few sensors, and something interesting to figure out.
+
+</td>
+<td width="30%" align="center" valign="center">
+  <img src="https://raw.githubusercontent.com/KanadeK/robot-expressive-codex-pet/main/media/actions/waving.gif" width="180" alt="Animated robot waving hello" />
+</td>
+</tr>
+</table>
+
+<!-- TOOLBOX -->
+<h2 align="center">🛠️ Tools on My Bench</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,arduino&theme=dark&perline=5" alt="C, C++, Python, MATLAB, and Arduino" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Simulink-0D1117?style=for-the-badge&logoColor=white" alt="Simulink" />
+  <img src="https://img.shields.io/badge/LTspice-0D1117?style=for-the-badge" alt="LTspice" />
+  <img src="https://img.shields.io/badge/PID_Control-0E7490?style=for-the-badge" alt="PID control" />
+  <img src="https://img.shields.io/badge/Sensor_Integration-0E7490?style=for-the-badge" alt="Sensor integration" />
+</p>
+
+<p align="center">
+  <sub>Firmware • Simulation • Feedback Control • Instrumentation • IoT</sub>
+</p>
+
+---
+
+<!-- PROJECTS -->
+<h2 align="center">🤖 Things I've Built</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🤖 Differential Drive Robot</h3>
+<h3>🛞 Differential Drive Robot</h3>
+
+<p><b>From sensor readings to controlled motion.</b></p>
 
 <p>
-An ESP32-based mobile robot combining IMU, ToF sensors, and encoder feedback for localization and motion control.
+An ESP32 robot combining IMU, ToF, and encoder feedback for straight, square, and circular path tracking.
 </p>
 
-<ul>
-  <li>Straight, square, and circular trajectory tracking.</li>
-  <li>PID control reduced trajectory error from <b>±6 cm to ±2 cm</b>.</li>
-  <li>Repository includes firmware, PCB design, and 3D-print files.</li>
-</ul>
+<p>
+PID control, custom PCB integration, and a 3D-printed chassis bring the hardware and software together.
+</p>
 
-<p><b>ESP32 · IMU · ToF · Encoders · PID</b></p>
+<p>
+  <code>ESP32</code>
+  <code>Sensor Fusion</code>
+  <code>PID</code>
+</p>
 
-<a href="https://github.com/sdqxmd/Differential-Drive-Robot"><b>Explore the robot →</b></a>
+<a href="https://github.com/sdqxmd/Differential-Drive-Robot">
+  <img src="https://img.shields.io/badge/Explore_Robot_%E2%86%92-0891B2?style=for-the-badge" alt="Explore Differential Drive Robot" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🌱 Smart Irrigation System</h3>
+<h3>🌱 Smart Irrigation</h3>
+
+<p><b>Let the sensors decide when to water.</b></p>
 
 <p>
-A solar-powered IoT irrigation system that combines environmental sensing with automatic watering.
+A solar-powered irrigation build combining environmental sensing, fuzzy logic, automatic pump control, and wireless monitoring.
 </p>
 
-<ul>
-  <li>Monitors soil moisture, temperature, humidity, soil pH, and solar-panel electrical output.</li>
-  <li>Uses <b>fuzzy logic</b> for automatic pump control.</li>
-  <li>Supports wireless monitoring through ESP32 Wi-Fi.</li>
-</ul>
+<p>
+An exploration of how embedded intelligence can support everyday resource management.
+</p>
 
-<p><b>ESP32 · IoT · Fuzzy Logic · Solar Power</b></p>
+<p>
+  <code>ESP32</code>
+  <code>Fuzzy Logic</code>
+  <code>IoT</code>
+</p>
 
-<a href="https://github.com/sdqxmd/Smart-Irrigation-System"><b>Explore the system →</b></a>
+<a href="https://github.com/sdqxmd/Smart-Irrigation-System">
+  <img src="https://img.shields.io/badge/Explore_System_%E2%86%92-059669?style=for-the-badge" alt="Explore Smart Irrigation System" />
+</a>
 
 </td>
 </tr>
@@ -86,118 +131,144 @@ A solar-powered IoT irrigation system that combines environmental sensing with a
 
 <h3>💧 Uroflowmeter</h3>
 
+<p><b>Turning physical measurements into live data.</b></p>
+
 <p>
-A load-cell-based measurement prototype for real-time volume and flow-rate monitoring.
+A load-cell and HX711 measurement prototype with calibration, real-time volume and flow-rate visualization, and CSV export.
 </p>
 
-<ul>
-  <li>Uses a load cell and HX711 amplifier.</li>
-  <li>Multi-point calibration achieved <b>less than 5% measurement error</b>.</li>
-  <li>Includes a Python GUI for live visualization and <b>CSV data logging</b>.</li>
-</ul>
+<p>
+Embedded sensing meets a Python interface.
+</p>
 
-<p><b>HX711 · Load Cell · Python · Calibration</b></p>
+<p>
+  <code>HX711</code>
+  <code>Python GUI</code>
+  <code>Data Logging</code>
+</p>
 
-<a href="https://github.com/sdqxmd/Uroflowmeter"><b>Explore the instrument →</b></a>
+<a href="https://github.com/sdqxmd/Uroflowmeter">
+  <img src="https://img.shields.io/badge/Explore_Instrument_%E2%86%92-7C3AED?style=for-the-badge" alt="Explore Uroflowmeter" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>🛞 Multi-Mode Mobile Robot</h3>
+<h3>📡 Multi-Mode Mobile Robot</h3>
+
+<p><b>One robot. Several ways to explore.</b></p>
 
 <p>
-An Arduino-based robot combining autonomous behaviors with Bluetooth-controlled operation.
+An Arduino robot with line following, object following, obstacle avoidance, maze solving, and edge detection.
 </p>
 
-<ul>
-  <li>Line following, object following, and obstacle avoidance.</li>
-  <li>Maze solving and cliff/edge detection.</li>
-  <li>HC-05 Bluetooth control for manual operation.</li>
-</ul>
+<p>
+Switch to Bluetooth control when it's time to take the wheel.
+</p>
 
-<p><b>Arduino · HC-05 · Ultrasonic · IR Sensors</b></p>
+<p>
+  <code>Arduino</code>
+  <code>HC-05</code>
+  <code>Autonomous Modes</code>
+</p>
 
-<a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-"><b>Explore the robot →</b></a>
+<a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
+  <img src="https://img.shields.io/badge/Explore_Robot_%E2%86%92-D97706?style=for-the-badge" alt="Explore Multi-Mode Mobile Robot" />
+</a>
 
 </td>
 </tr>
 </table>
 
-### 🔎 More Projects
+<!-- ACTUAL PROJECT IMAGES -->
+<h3 align="center">📸 A Look Inside the Builds</h3>
 
-| Project | What it explores |
-| :--- | :--- |
-| [BCD-to-Decimal Converter](https://github.com/sdqxmd/BCD-To-Decimal-Converter) | Digital logic and display interfacing using IC 7447, DIP switches, and a seven-segment display. |
-| [Missile Defence System Prototype](https://github.com/sdqxmd/Missile-Defence-System-Prototype) | An Arduino demonstration of ultrasonic object detection, simulated servo tracking, and LED/buzzer alerts. |
-| [PDFMania](https://github.com/sdqxmd/PDF-Editing-Tool) | A browser-based PDF utility for merging, splitting, compressing, watermarking, and editing documents. |
+<p align="center">
+  <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
+    <img height="170" src="https://raw.githubusercontent.com/sdqxmd/Differential-Drive-Robot/main/Robot%20Images/Robot%20Side%20Top.jpeg" alt="My differential drive robot and its electronics" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
+    <img height="170" src="https://raw.githubusercontent.com/sdqxmd/Smart-Irrigation-System/main/Images/IMG20260418163030.jpg.jpeg" alt="My solar-powered irrigation prototype" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sdqxmd/Uroflowmeter">
+    <img height="170" src="https://raw.githubusercontent.com/sdqxmd/Uroflowmeter/main/GUI%20Image.jpeg" alt="GUI screenshot from my Uroflowmeter repository" />
+  </a>
+</p>
 
-## ☀️ Currently Building
-
-### Predictive Maintenance of a Solar Inverter Using IoT & ML
-
-**Final-year project · In progress · Simulation phase**
-
-I'm developing a MATLAB/Simulink workflow to investigate inverter health and fault behavior.
-
-- **Simulation:** Generate healthy and faulty inverter data.
-- **Fault analysis:** Study DC-link capacitor degradation and IGBT/MOSFET switching faults.
-- **Machine learning:** Explore Random Forest and LSTM methods for fault analysis and remaining useful life prediction.
-- **Next stage:** Validate the simulation before moving to hardware implementation.
-
-## 🛠️ Engineering Toolkit
-
-| Area | Tools & Skills |
-| :--- | :--- |
-| **Programming** | C/C++, Python, embedded firmware, GUI development, data logging |
-| **Modeling & Simulation** | MATLAB, Simulink, LTspice |
-| **Embedded Platforms** | ESP32, Arduino Uno, Arduino IDE |
-| **Robotics & Control** | PID control, motion control, encoder feedback, sensor integration, fuzzy logic |
-| **Sensors & Interfaces** | IMU, ToF, ultrasonic/IR, HX711, load cells, INA219, DHT11, pH sensors, OLED, HC-05 |
-| **Electrical & Testing** | Power electronics, voltage regulation, buck converters, DSO, multimeters, fault diagnosis |
-
-## 🏭 Industry Experience
-
-### Robotics & Control Systems Engineering Intern
-**Flywheel Aerospace · June 2025 – April 2026**
-
-- Developed sensor-integrated robotics systems using ESP32 and Arduino.
-- Contributed to embedded firmware, real-time control, and hardware–software integration.
-- Worked on prototype testing, test scenarios, and debugging.
-
-### Intern Associate
-**Servokon Systems Limited · June 2026 – July 2026**
-
-- Gained exposure to voltage stabilizer and power transformer manufacturing and testing.
-- Learned about voltage regulation, fault diagnosis, quality control, and production workflows.
-- Observed shop-floor testing using DSOs and multimeters.
-
-## 🎓 Beyond the Projects
-
-- **Technical Trainer:** Delivered two-day D.A.R.E. D1 drone/PID modeling and R1 robotics workshops at JMI.
-- **IEEE DELCon 2025 Volunteer:** Helped organize technical sessions for **100+ participants**.
-
-<details>
-<summary><b>📜 Certifications & Training</b></summary>
-
-- Battery & BMS
-- Oracle AI Foundation Associate
-- MATLAB/Simulink — Udemy
-- Bamboo Copter Drone Training
-
-</details>
+<p align="center">
+  <sub>Robot electronics • Solar-powered sensing • Live measurement interface</sub>
+</p>
 
 ---
 
+<!-- CURRENT PROJECT -->
+<h2 align="center">🔬 Currently on the Workbench</h2>
+
+<h3 align="center">☀️ Predictive Maintenance of a Solar Inverter</h3>
+
 <p align="center">
-  <b>Let's talk robots, circuits, control systems, and ideas worth building.</b>
+  <img src="https://img.shields.io/badge/STATUS-SIMULATION_IN_PROGRESS-F59E0B?style=for-the-badge&labelColor=161B22" alt="Simulation in progress" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsdq/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mohdsadique6970942@gmail.com">mohdsadique6970942@gmail.com</a>
+  Exploring how <b>simulation, IoT, and machine learning</b> can help understand inverter health.
+</p>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>⚙️ Model</h3>
+  Healthy and faulty inverter behavior in MATLAB/Simulink.
+</td>
+<td align="center" width="33%">
+  <h3>📉 Investigate</h3>
+  Capacitor degradation and switching faults.
+</td>
+<td align="center" width="33%">
+  <h3>🧠 Explore</h3>
+  Random Forest and LSTM approaches for fault analysis and remaining useful life.
+</td>
+</tr>
+</table>
+
+---
+
+<!-- OTHER PROJECTS -->
+<details>
+<summary><b>🧩 More from the workbench</b></summary>
+
+<br />
+
+- **[BCD-to-Decimal Converter](https://github.com/sdqxmd/BCD-To-Decimal-Converter)**  
+  Digital logic brought to life with IC 7447 and a seven-segment display.
+
+- **[Arduino Detection & Tracking Prototype](https://github.com/sdqxmd/Missile-Defence-System-Prototype)**  
+  Ultrasonic object detection, simulated servo tracking, and visual/audio alerts.
+
+- **[PDFMania](https://github.com/sdqxmd/PDF-Editing-Tool)**  
+  A browser-based toolkit for merging, splitting, compressing, and editing PDFs.
+
+</details>
+
+<br />
+
+<p align="center">
+  <b>Have an idea involving robots, circuits, or intelligent energy systems?</b>
+  <br />
+  <a href="mailto:mohdsadique6970942@gmail.com">Let's talk about building it.</a>
 </p>
 
 <p align="center">
-  <sub>Build. Test. Understand. Improve.</sub>
+  <i>Build something. Measure what happens. Make it better.</i>
 </p>
+
+<p align="center">
+  <sub>
+    Robot animation:
+    <a href="https://github.com/KanadeK/robot-expressive-codex-pet/blob/main/ASSET_LICENSE.md">RobotExpressive · CC0</a>
+  </sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=90&section=footer" alt="Cyan wave footer" />
