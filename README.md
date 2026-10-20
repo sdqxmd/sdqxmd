@@ -77,14 +77,45 @@ I connect **system simulation with physical prototypes**—exploring electrical 
   <img src="https://skillicons.dev/icons?i=matlab,python,c,cpp,arduino&theme=dark" alt="MATLAB, Python, C, C++, and Arduino" />
 </p>
 
-| Area | Tools and concepts |
-| :--- | :--- |
-| 📈 **Simulation & circuit analysis** | MATLAB · Simulink · LTspice |
-| 🔌 **Embedded development** | C · C++ · ESP32 · Arduino |
-| 🤖 **Robotics & control** | PID · Fuzzy logic · Sensor fusion · Motor control |
-| 📡 **Sensors & interfaces** | IMU · ToF · Encoders · HX711 · Ultrasonic · IR |
-| 💧 **Instrumentation** | Load cells · Calibration · Physical measurements |
-| 📊 **Data & monitoring** | Python · GUI development · Data logging · IoT |
+<!-- CENTERED TOOLKIT TABLE -->
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th align="center">Area</th>
+        <th align="center">Tools and concepts</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">📈 <b>Simulation &amp; circuit analysis</b></td>
+        <td align="center">MATLAB · Simulink · LTspice</td>
+      </tr>
+      <tr>
+        <td align="center">🔌 <b>Embedded development</b></td>
+        <td align="center">C · C++ · ESP32 · Arduino</td>
+      </tr>
+      <tr>
+        <td align="center">🤖 <b>Robotics &amp; control</b></td>
+        <td align="center">PID · Fuzzy logic · Sensor fusion · Motor control</td>
+      </tr>
+      <tr>
+        <td align="center">📡 <b>Sensors &amp; interfaces</b></td>
+        <td align="center">IMU · ToF · Encoders · HX711 · Ultrasonic · IR</td>
+      </tr>
+      <tr>
+        <td align="center">💧 <b>Instrumentation</b></td>
+        <td align="center">Load cells · Calibration · Physical measurements</td>
+      </tr>
+      <tr>
+        <td align="center">📊 <b>Data &amp; monitoring</b></td>
+        <td align="center">Python · GUI development · Data logging · IoT</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
 
 <details>
 <summary><b>🧠 What I'm exploring</b></summary>
