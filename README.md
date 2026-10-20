@@ -1,18 +1,7 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=120&section=header" alt="Cyan wave header" />
-
-<h1 align="center">⚡ Mohammad Sadique</h1>
-
-<h3 align="center">
-  Electrical Engineering · Robotics · Embedded Systems
-</h3>
+<!-- Profile README for github.com/sdqxmd. Keep the assets folder beside this file. -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=Simulate+the+system.;Build+the+hardware.;Measure.+Refine.+Repeat." alt="Simulate the system. Build the hardware. Measure, refine, repeat." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-SIMULATION_%2B_HARDWARE-22D3EE?style=for-the-badge&labelColor=161B22" alt="Focus: simulation and hardware" />
+  <img width="100%" src="assets/engineering-header.svg" alt="Mohammad Sadique — Electrical Engineering, Robotics and Embedded Systems. Simulate the system. Build the hardware. Measure, refine, repeat." />
 </p>
 
 <p align="center">
@@ -20,375 +9,192 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mdsdq/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mohdsadique6970942@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/sdqxmd?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_My_Projects-161B22?style=for-the-badge&logo=github&logoColor=22D3EE" alt="Explore my projects" />
-  </a>
-</p>
-
----
-
-<!-- INTRO -->
-<table>
-<tr>
-<td width="75%" valign="middle">
-
-<h3>🔌 Welcome to my engineering workbench</h3>
-
-<p>
-I'm <b>Mohammad Sadique</b>, an Electrical Engineering student at
-<b>Jamia Millia Islamia, New Delhi</b>.
-</p>
-
-<p>
-My work connects <b>system simulation</b> with <b>physical prototypes</b>:
-exploring electrical behavior, programming microcontrollers,
-integrating sensors, and making robots move with feedback.
-</p>
-
-<p>
-I'm especially interested in <b>robotics, control systems,
-power electronics, and intelligent monitoring</b>.
-</p>
-
-<p><i>My favorite part? Seeing an idea survive its first real-world test.</i></p>
-
-</td>
-<td width="25%" align="center" valign="middle">
-
-<img width="160" src="https://raw.githubusercontent.com/KanadeK/robot-expressive-codex-pet/main/media/actions/waving.gif" alt="Animated robot waving hello" />
-
-</td>
-</tr>
-</table>
-
-<!-- TWO SIDES OF THE WORK -->
-<h2 align="center">🧠 Model It. 🔧 Build It. 📈 Understand It.</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<h3>📈 Simulation & Analysis</h3>
-
-<img src="https://img.shields.io/badge/MODEL_%E2%80%A2_SIMULATE_%E2%80%A2_ANALYZE-0891B2?style=for-the-badge" alt="Model, simulate, analyze" />
-
-<p>
-Electrical systems and circuit behavior<br />
-Control loops and robot modeling<br />
-Inverter faults and system health<br />
-Data analysis and predictive-maintenance exploration
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=matlab,python&theme=dark" alt="MATLAB and Python" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Simulink-161B22?style=flat-square" alt="Simulink" />
-  <img src="https://img.shields.io/badge/LTspice-161B22?style=flat-square" alt="LTspice" />
-  <img src="https://img.shields.io/badge/Control_Systems-161B22?style=flat-square" alt="Control systems" />
-</p>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>⚙️ Hardware & Integration</h3>
-
-<img src="https://img.shields.io/badge/BUILD_%E2%80%A2_MEASURE_%E2%80%A2_REFINE-059669?style=for-the-badge" alt="Build, measure, refine" />
-
-<p>
-Microcontrollers and embedded firmware<br />
-Sensors, interfaces, and motor control<br />
-PCB-based robots and physical prototypes<br />
-Calibration, measurements, and data logging
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino&theme=dark" alt="C, C++, and Arduino" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/ESP32-161B22?style=flat-square&logo=espressif&logoColor=E7352C" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Sensor_Integration-161B22?style=flat-square" alt="Sensor integration" />
-  <img src="https://img.shields.io/badge/IoT-161B22?style=flat-square" alt="IoT" />
-</p>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <code>System Models</code>
-  &nbsp;→&nbsp;
-  <code>Control Logic</code>
-  &nbsp;→&nbsp;
-  <code>Physical Systems</code>
-  &nbsp;→&nbsp;
-  <code>Measured Feedback</code>
-</p>
-
----
-
-<!-- CURRENT EXPLORATION -->
-<h2 align="center">☀️ Currently on My Radar</h2>
-
-<h3 align="center">
-  Predictive Maintenance of a Solar Inverter Using IoT & ML
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=for-the-badge&labelColor=161B22" alt="Project in progress" />
+  <a href="https://www.linkedin.com/in/mdsdq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:mohdsadique6970942@gmail.com"><img src="https://img.shields.io/badge/Email-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/sdqxmd?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Projects-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE" alt="Explore my projects" /></a>
 </p>
 
 <p align="center">
-  Exploring how inverter behavior can reveal early signs of failure.
-  Current work centers on simulation, fault analysis,
-  and predictive-maintenance methods.
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="#current-focus">Current focus</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#lets-connect">Connect</a>
 </p>
 
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
+## About
 
-<h3>⚡ Model</h3>
-<p>Study healthy and faulty inverter operation using MATLAB/Simulink.</p>
+<img align="right" width="170" src="assets/workbench-robot.svg" alt="Animated engineering robot with a blinking display and rotating wheels" />
 
-</td>
-<td width="33%" align="center" valign="top">
+I'm **Mohammad Sadique**, an **Electrical Engineering student at Jamia Millia Islamia, New Delhi**.
 
-<h3>📉 Investigate</h3>
-<p>Explore capacitor degradation, switching faults, and changes in system signals.</p>
+I connect **system simulation with physical prototypes**: exploring electrical behavior, programming microcontrollers, integrating sensors, and making robots move with feedback.
 
-</td>
-<td width="33%" align="center" valign="top">
+- **What draws me in:** robotics, control systems, power electronics, and intelligent monitoring.
+- **How I work:** model an idea, build a prototype, measure what happens, and refine it.
+- **What keeps me curious:** seeing an idea survive its first real-world test.
 
-<h3>🧠 Predict</h3>
-<p>Investigate Random Forest and LSTM approaches for fault analysis.</p>
-
-</td>
-</tr>
-</table>
+<br clear="right" />
 
 <p align="center">
-  <a href="https://github.com/sdqxmd/Predictive-Maintenance-of-Solar-Inverter-using-IoT-and-ML">
-    <img src="https://img.shields.io/badge/Explore_the_Inverter_Project-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore the solar inverter project" />
-  </a>
+  <img width="100%" src="assets/engineering-loop.svg" alt="My engineering loop: model, build, measure, and refine" />
 </p>
 
----
-
-<!-- HARDWARE PROJECTS -->
-<h2 align="center">🤖 From Firmware to Physical Systems</h2>
+## Toolkit
 
 <p align="center">
-  <b>Robots that move. Sensors that measure. Systems that respond.</b>
+  <img src="https://skillicons.dev/icons?i=matlab,python,c,cpp,arduino&amp;theme=dark" alt="MATLAB, Python, C, C++, and Arduino" />
 </p>
+
+| Area | Tools and concepts | What I use them for |
+| :--- | :--- | :--- |
+| **Simulation & circuits** | MATLAB · Simulink · LTspice | System models, circuit behavior, and fault studies |
+| **Embedded systems** | C · C++ · ESP32 · Arduino | Firmware, sensor interfaces, and motor control |
+| **Robotics & control** | PID · Fuzzy logic · IMU · ToF · Encoders | Feedback, navigation, and motion control |
+| **Instrumentation** | HX711 · Load cells · Calibration | Physical measurements and repeatable experiments |
+| **Data & monitoring** | Python · GUI development · Data logging · IoT | Turning measurements into useful information |
+
+<details>
+<summary><b>🧠 What I'm exploring next</b></summary>
+
+<br />
+
+**Random Forest and LSTM approaches for inverter fault analysis**, alongside simulation-based predictive maintenance. These are active areas of exploration in my current project.
+
+</details>
+
+## Current focus
+
+### ☀️ Predictive Maintenance of a Solar Inverter Using IoT & ML
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square&amp;labelColor=161B22" alt="Status: in progress" />
+  <img src="https://img.shields.io/badge/PHASE-SIMULATION-0891B2?style=flat-square&amp;labelColor=161B22" alt="Phase: simulation" />
+</p>
+
+**Can inverter behavior reveal early signs of failure?** I'm exploring that question through simulation, fault analysis, and predictive-maintenance methods.
+
+1. **Model the system** — study healthy and faulty inverter operation in MATLAB/Simulink.
+2. **Investigate the signals** — explore capacitor degradation, switching faults, and changes in system behavior.
+3. **Explore prediction** — investigate Random Forest and LSTM approaches for fault analysis.
+
+<p>
+  <a href="https://github.com/sdqxmd/Predictive-Maintenance-of-Solar-Inverter-using-IoT-and-ML"><b>Explore the inverter project →</b></a>
+</p>
+
+## Featured projects
+
+**Robots that move. Sensors that measure. Systems that respond.**
 
 <table>
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center">🛞 Differential Drive Robot</h3>
-
-<p align="center">
-  <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
-    <img height="190" src="https://raw.githubusercontent.com/sdqxmd/Differential-Drive-Robot/main/Robot%20Images/Robot%20Side%20Top.jpeg" alt="My differential drive robot with its electronics and custom PCB" />
-  </a>
-</p>
-
-<p><b>Closing the loop between sensing and motion.</b></p>
-
-<p>
-An ESP32 robot combining IMU, ToF, and encoder feedback
-for straight, square, and circular trajectories.
-Includes PID control, PCB design, and ongoing robot modeling.
-</p>
-
-<p>
-  <code>ESP32</code>
-  <code>PID</code>
-  <code>Sensor Fusion</code>
-  <code>PCB</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
-    <b>Explore the robot →</b>
-  </a>
-</p>
-
+  <h3>🛞 Differential Drive Robot</h3>
+  <p><b>Closing the loop between sensing and motion.</b></p>
+  <p>An ESP32 robot combining IMU, ToF, and encoder feedback for straight, square, and circular trajectories. Includes PID control, PCB design, and ongoing robot modeling.</p>
+  <p><code>ESP32</code> <code>PID</code> <code>Sensor Fusion</code> <code>PCB</code></p>
+  <p><a href="https://github.com/sdqxmd/Differential-Drive-Robot"><b>Explore the robot →</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center">🌱 Smart Irrigation System</h3>
-
-<p align="center">
-  <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
-    <img height="190" src="https://raw.githubusercontent.com/sdqxmd/Smart-Irrigation-System/main/Images/IMG20260418163030.jpg.jpeg" alt="My solar-powered irrigation prototype with sensors and pump" />
-  </a>
-</p>
-
-<p><b>Turning environmental data into action.</b></p>
-
-<p>
-Solar-powered irrigation combining soil and environmental sensing,
-fuzzy logic, automatic pump control,
-and wireless monitoring through an ESP32.
-</p>
-
-<p>
-  <code>ESP32</code>
-  <code>Fuzzy Logic</code>
-  <code>IoT</code>
-  <code>Solar</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
-    <b>Explore the system →</b>
-  </a>
-</p>
-
+  <h3>🌱 Smart Irrigation System</h3>
+  <p><b>Turning environmental data into action.</b></p>
+  <p>Solar-powered irrigation combining soil and environmental sensing, fuzzy logic, automatic pump control, and wireless monitoring through an ESP32.</p>
+  <p><code>ESP32</code> <code>Fuzzy Logic</code> <code>IoT</code> <code>Solar</code></p>
+  <p><a href="https://github.com/sdqxmd/Smart-Irrigation-System"><b>Explore the system →</b></a></p>
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
-
-<h3 align="center">💧 Uroflowmeter</h3>
-
-<p align="center">
-  <a href="https://github.com/sdqxmd/Uroflowmeter">
-    <img height="170" src="https://raw.githubusercontent.com/sdqxmd/Uroflowmeter/main/GUI%20Image.jpeg" alt="GUI screenshot from my Uroflowmeter repository" />
-  </a>
-</p>
-
-<p><b>Connecting physical measurements to live data.</b></p>
-
-<p>
-A load-cell measurement prototype with HX711 interfacing,
-multi-point calibration, a Python GUI,
-and data logging for volume and flow analysis.
-</p>
-
-<p>
-  <code>HX711</code>
-  <code>Python</code>
-  <code>Calibration</code>
-  <code>Instrumentation</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Uroflowmeter">
-    <b>Explore the instrument →</b>
-  </a>
-</p>
-
+  <h3>💧 Uroflowmeter</h3>
+  <p><b>From physical measurements to live data.</b></p>
+  <p>A load-cell measurement prototype with HX711 interfacing, multi-point calibration, a Python GUI, and data logging for volume and flow analysis.</p>
+  <p><code>HX711</code> <code>Python</code> <code>Calibration</code></p>
+  <p><a href="https://github.com/sdqxmd/Uroflowmeter"><b>Explore the instrument →</b></a></p>
 </td>
 <td width="50%" valign="top">
-
-<h3 align="center">📡 Multi-Mode Mobile Robot</h3>
-
-<p align="center">
-  <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
-    <img height="170" src="https://raw.githubusercontent.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-/main/image.png" alt="My Arduino mobile robot with ultrasonic sensing, OLED, and Bluetooth module" />
-  </a>
-</p>
-
-<p><b>One platform. Multiple ways to navigate.</b></p>
-
-<p>
-An Arduino robot featuring line following, object following,
-obstacle avoidance, maze solving, edge detection,
-and Bluetooth-controlled operation.
-</p>
-
-<p>
-  <code>Arduino</code>
-  <code>HC-05</code>
-  <code>Ultrasonic</code>
-  <code>IR Sensors</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
-    <b>Explore the robot →</b>
-  </a>
-</p>
-
+  <h3>📡 Multi-Mode Mobile Robot</h3>
+  <p><b>One platform. Multiple ways to navigate.</b></p>
+  <p>An Arduino robot featuring line following, object following, obstacle avoidance, maze solving, edge detection, and Bluetooth-controlled operation.</p>
+  <p><code>Arduino</code> <code>HC-05</code> <code>Ultrasonic</code> <code>IR Sensors</code></p>
+  <p><a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-"><b>Explore the robot →</b></a></p>
 </td>
 </tr>
 </table>
+
+<details open>
+<summary><b>📸 From my workbench — project gallery</b></summary>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/sdqxmd/Differential-Drive-Robot"><img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Differential-Drive-Robot/main/Robot%20Images/Robot%20Side%20Top.jpeg" alt="Differential Drive Robot: electronics and custom PCB" /></a>
+  &nbsp;
+  <a href="https://github.com/sdqxmd/Smart-Irrigation-System"><img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Smart-Irrigation-System/main/Images/IMG20260418163030.jpg.jpeg" alt="Smart Irrigation System: solar-powered prototype with sensors and pump" /></a>
+</p>
+<p align="center"><sub>Differential Drive Robot &nbsp;·&nbsp; Smart Irrigation System</sub></p>
+
+<p align="center">
+  <a href="https://github.com/sdqxmd/Uroflowmeter"><img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Uroflowmeter/main/GUI%20Image.jpeg" alt="Uroflowmeter: Python monitoring GUI" /></a>
+  &nbsp;
+  <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-"><img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-/main/image.png" alt="Multi-Mode Mobile Robot: Arduino, ultrasonic sensing, OLED, and Bluetooth module" /></a>
+</p>
+<p align="center"><sub>Uroflowmeter GUI &nbsp;·&nbsp; Multi-Mode Mobile Robot</sub></p>
+
+</details>
 
 <details>
 <summary><b>🧩 More from the electronics bench</b></summary>
 
 <br />
 
-- 🔢 **[BCD-to-Decimal Converter](https://github.com/sdqxmd/BCD-To-Decimal-Converter)**  
-  Digital logic with an IC 7447, DIP switches, and a seven-segment display.
-
-- 📡 **[Arduino Detection & Tracking Prototype](https://github.com/sdqxmd/Missile-Defence-System-Prototype)**  
-  An educational demonstration of ultrasonic detection, simulated servo tracking, and visual/audio alerts.
+- **[BCD-to-Decimal Converter](https://github.com/sdqxmd/BCD-To-Decimal-Converter)** — digital logic with an IC 7447, DIP switches, and a seven-segment display.
+- **[Arduino Detection & Tracking Prototype](https://github.com/sdqxmd/Missile-Defence-System-Prototype)** — an educational demonstration of ultrasonic detection, simulated servo tracking, and visual/audio alerts.
 
 </details>
 
----
-
-<!-- ACTIVITY -->
-<h2 align="center">📊 Behind the Builds</h2>
+## GitHub activity
 
 <p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdqxmd&theme=github_dark" alt="GitHub contribution overview" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sdqxmd&amp;theme=github_dark" alt="GitHub contribution overview for sdqxmd" />
 </p>
+
+<details>
+<summary><b>📊 A closer look at the activity</b></summary>
+
+<br />
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdqxmd&theme=github_dark" alt="GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdqxmd&theme=github_dark&utcOffset=5.5" alt="Commit activity by time in India Standard Time" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sdqxmd&amp;theme=github_dark" alt="GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sdqxmd&amp;theme=github_dark&amp;utcOffset=5.5" alt="Commit activity by time in India Standard Time" />
 </p>
 
-<!-- Requires the snake.yml workflow -->
-<h3 align="center">🐍 Contributions in Motion</h3>
+</details>
 
+### 🐍 Contributions in motion
+
+<!-- Run .github/workflows/snake.yml once to generate these files. -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdqxmd/sdqxmd/profile-animations/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdqxmd/sdqxmd/profile-animations/github-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/sdqxmd/sdqxmd/profile-animations/github-snake.svg" alt="Animated snake following my GitHub contributions" />
+    <img width="100%" src="https://raw.githubusercontent.com/sdqxmd/sdqxmd/profile-animations/github-snake.svg" alt="Animated snake following my actual GitHub contributions" />
   </picture>
 </p>
 
----
+<p align="center"><a href="https://github.com/sdqxmd?tab=repositories">Browse all repositories ↗</a></p>
 
-<!-- CONTACT -->
-<h3 align="center">🤝 Have an idea involving circuits, control, or robotics?</h3>
+## Let's connect
+
+Have an idea involving **circuits, control, or robotics**? I'm interested in projects that connect simulation, embedded intelligence, and working hardware.
 
 <p align="center">
-  I'm interested in projects that connect
-  <b>simulation, embedded intelligence, and working hardware</b>.
+  <a href="mailto:mohdsadique6970942@gmail.com"><img src="https://img.shields.io/badge/Let's_Build_Something-0891B2?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Get in touch by email" /></a>
+  <a href="https://www.linkedin.com/in/mdsdq/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-161B22?style=for-the-badge&amp;logoColor=22D3EE" alt="Connect on LinkedIn" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:mohdsadique6970942@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Build_Something-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch" />
-  </a>
+  <img width="100%" src="assets/signal-footer.svg" alt="Simulate with curiosity. Build with purpose. Improve with evidence." />
 </p>
 
-<p align="center">
-  <b>Simulate with curiosity. Build with purpose. Improve with evidence.</b>
-</p>
-
-<p align="center">
-  <sub>
-    Robot animation:
-    <a href="https://github.com/KanadeK/robot-expressive-codex-pet/blob/main/ASSET_LICENSE.md">RobotExpressive · CC0</a>
-  </sub>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E7490,100:22D3EE&height=90&section=footer" alt="Cyan wave footer" />
+<p align="center"><sub><a href="#about">Back to the workbench ↑</a></sub></p>
