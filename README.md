@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Simulate+the+system.;Build+the+hardware.;Make+robots+move+with+feedback.;Measure.+Refine.+Repeat." alt="Animated introduction: simulate, build, control, and refine" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1100&color=22D3EE&center=true&vCenter=true&width=850&height=55&lines=Simulate+the+system.;Build+the+hardware.;Make+robots+move+with+feedback.;Measure.+Refine.+Repeat." alt="Simulate, build, control, and refine" />
 </p>
 
 <p align="center">
@@ -33,7 +33,8 @@
   <a href="#about">About</a> ·
   <a href="#engineering-toolkit">Toolkit</a> ·
   <a href="#currently-building">Current Project</a> ·
-  <a href="#featured-projects">Featured Projects</a> ·
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#project-gallery">Gallery</a> ·
   <a href="#github-activity">Activity</a> ·
   <a href="#lets-connect">Connect</a>
 </p>
@@ -77,7 +78,6 @@ I connect **system simulation with physical prototypes**—exploring electrical 
   <img src="https://skillicons.dev/icons?i=matlab,python,c,cpp,arduino&theme=dark" alt="MATLAB, Python, C, C++, and Arduino" />
 </p>
 
-<!-- CENTERED TOOLKIT TABLE -->
 <div align="center">
   <table align="center">
     <thead>
@@ -132,22 +132,50 @@ These are active learning and development areas within my current project.
 
 ## Currently Building
 
-### ☀️ Predictive Maintenance of a Solar Inverter Using IoT & ML
+<h3 align="center">
+  ☀️ Predictive Maintenance of a Solar Inverter Using IoT &amp; ML
+</h3>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-F59E0B?style=flat-square&labelColor=161B22" alt="Status: in progress" />
   <img src="https://img.shields.io/badge/PHASE-SIMULATION-0891B2?style=flat-square&labelColor=161B22" alt="Phase: simulation" />
 </p>
 
-**Can inverter behavior reveal early signs of failure?**
+<p align="center">
+  <b>Can inverter behavior reveal early signs of failure?</b>
+</p>
 
-I'm exploring this through simulation, fault analysis, and predictive-maintenance methods.
+<p align="center">
+  I'm exploring this through simulation, fault analysis,
+  and predictive-maintenance methods.
+</p>
 
-| Stage | Current focus |
-| :--- | :--- |
-| ⚡ **Model** | Study healthy and faulty inverter operation in MATLAB/Simulink. |
-| 📉 **Investigate** | Explore capacitor degradation, switching faults, and changes in system signals. |
-| 🧠 **Predict** | Investigate Random Forest and LSTM approaches for fault analysis. |
+<div align="center">
+  <table align="center">
+    <thead>
+      <tr>
+        <th align="center">Stage</th>
+        <th align="center">Current focus</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center">⚡ <b>Model</b></td>
+        <td align="center">Study healthy and faulty inverter operation in MATLAB/Simulink.</td>
+      </tr>
+      <tr>
+        <td align="center">📉 <b>Investigate</b></td>
+        <td align="center">Explore capacitor degradation, switching faults, and changes in system signals.</td>
+      </tr>
+      <tr>
+        <td align="center">🧠 <b>Predict</b></td>
+        <td align="center">Investigate Random Forest and LSTM approaches for fault analysis.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<br />
 
 <p align="center">
   <a href="https://github.com/sdqxmd/Predictive-Maintenance-of-Solar-Inverter-using-IoT-and-ML">
@@ -159,169 +187,214 @@ I'm exploring this through simulation, fault analysis, and predictive-maintenanc
 
 ## Featured Projects
 
-**Robots that move. Sensors that measure. Systems that respond.**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛞 Differential Drive Robot</h3>
-
-<p><b>Closing the loop between sensing and motion.</b></p>
-
-<p>
-An ESP32 robot combining IMU, ToF, and encoder feedback
-for straight, square, and circular trajectories.
-Includes PID control, PCB design, and ongoing robot modeling.
+<p align="center">
+  <b>Robots that move. Sensors that measure. Systems that respond.</b>
 </p>
 
-<p>
-  <code>ESP32</code>
-  <code>PID</code>
-  <code>Sensor Fusion</code>
-  <code>PCB</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
-    <b>Explore the robot →</b>
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🌱 Smart Irrigation System</h3>
-
-<p><b>Turning environmental data into action.</b></p>
-
-<p>
-Solar-powered irrigation combining soil and environmental sensing,
-fuzzy logic, automatic pump control, and wireless monitoring
-through an ESP32.
-</p>
-
-<p>
-  <code>ESP32</code>
-  <code>Fuzzy Logic</code>
-  <code>IoT</code>
-  <code>Solar</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
-    <b>Explore the system →</b>
-  </a>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<h3>💧 Uroflowmeter</h3>
-
-<p><b>From physical measurements to live data.</b></p>
-
-<p>
-A load-cell measurement prototype with HX711 interfacing,
-multi-point calibration, a Python GUI, and data logging
-for volume and flow analysis.
-</p>
-
-<p>
-  <code>HX711</code>
-  <code>Python</code>
-  <code>Calibration</code>
-  <code>Instrumentation</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Uroflowmeter">
-    <b>Explore the instrument →</b>
-  </a>
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📡 Multi-Mode Mobile Robot</h3>
-
-<p><b>One platform. Multiple ways to navigate.</b></p>
-
-<p>
-An Arduino robot featuring line following, object following,
-obstacle avoidance, maze solving, edge detection,
-and Bluetooth-controlled operation.
-</p>
-
-<p>
-  <code>Arduino</code>
-  <code>HC-05</code>
-  <code>Ultrasonic</code>
-  <code>IR Sensors</code>
-</p>
-
-<p>
-  <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
-    <b>Explore the robot →</b>
-  </a>
-</p>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛞 Differential Drive Robot</h3>
+      <p align="center">
+        <b>Closing the loop between sensing and motion.</b>
+      </p>
+      <p>
+        An ESP32 robot combining IMU, ToF, and encoder feedback
+        for straight, square, and circular trajectories.
+        Includes PID control, PCB design, and ongoing robot modeling.
+      </p>
+      <p align="center">
+        <code>ESP32</code>
+        <code>PID</code>
+        <code>Sensor Fusion</code>
+        <code>PCB</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
+          <b>Explore the robot →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌱 Smart Irrigation System</h3>
+      <p align="center">
+        <b>Turning environmental data into action.</b>
+      </p>
+      <p>
+        Solar-powered irrigation combining soil and environmental sensing,
+        fuzzy logic, automatic pump control, and wireless monitoring
+        through an ESP32.
+      </p>
+      <p align="center">
+        <code>ESP32</code>
+        <code>Fuzzy Logic</code>
+        <code>IoT</code>
+        <code>Solar</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
+          <b>Explore the system →</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💧 Uroflowmeter</h3>
+      <p align="center">
+        <b>From physical measurements to live data.</b>
+      </p>
+      <p>
+        A load-cell measurement prototype with HX711 interfacing,
+        multi-point calibration, a Python GUI, and data logging
+        for volume and flow analysis.
+      </p>
+      <p align="center">
+        <code>HX711</code>
+        <code>Python</code>
+        <code>Calibration</code>
+        <code>Instrumentation</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sdqxmd/Uroflowmeter">
+          <b>Explore the instrument →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📡 Multi-Mode Mobile Robot</h3>
+      <p align="center">
+        <b>One platform. Multiple ways to navigate.</b>
+      </p>
+      <p>
+        An Arduino robot featuring line following, object following,
+        obstacle avoidance, maze solving, edge detection,
+        and Bluetooth-controlled operation.
+      </p>
+      <p align="center">
+        <code>Arduino</code>
+        <code>HC-05</code>
+        <code>Ultrasonic</code>
+        <code>IR Sensors</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
+          <b>Explore the robot →</b>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-### 📸 From My Workbench
+---
 
-<details open>
-<summary><b>View the project gallery</b></summary>
+## Project Gallery
+
+<p align="center">
+  <b>📸 From my workbench</b><br />
+  <sub>Physical prototypes, embedded electronics, and measurement interfaces.</sub>
+</p>
+
+<!-- Equal image heights preserve proportions and align the gallery. -->
+<div align="center">
+  <table align="center">
+    <tr>
+      <th width="50%" align="center">🛞 Differential Drive Robot</th>
+      <th width="50%" align="center">🌱 Smart Irrigation System</th>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
+          <img height="220" src="https://raw.githubusercontent.com/sdqxmd/Differential-Drive-Robot/main/Robot%20Images/Robot%20Side%20Top.jpeg" alt="Differential drive robot with electronics and custom PCB" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
+          <img height="220" src="https://raw.githubusercontent.com/sdqxmd/Smart-Irrigation-System/main/Images/IMG20260418163030.jpg.jpeg" alt="Solar-powered irrigation prototype with sensors and pump" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub>ESP32 · Custom PCB · Feedback control</sub>
+      </td>
+      <td align="center">
+        <sub>Solar power · Environmental sensing · Automation</sub>
+      </td>
+    </tr>
+    <tr>
+      <th width="50%" align="center">💧 Uroflowmeter Interface</th>
+      <th width="50%" align="center">📡 Multi-Mode Mobile Robot</th>
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/sdqxmd/Uroflowmeter">
+          <img height="220" src="https://raw.githubusercontent.com/sdqxmd/Uroflowmeter/main/GUI%20Image.jpeg" alt="Uroflowmeter Python monitoring interface" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="middle">
+        <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
+          <img height="220" src="https://raw.githubusercontent.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-/main/image.png" alt="Arduino mobile robot with ultrasonic sensing and Bluetooth" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <sub>Python GUI · Measurements · Data logging</sub>
+      </td>
+      <td align="center">
+        <sub>Arduino · Navigation · Bluetooth control</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
-<p align="center">
-  <a href="https://github.com/sdqxmd/Differential-Drive-Robot">
-    <img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Differential-Drive-Robot/main/Robot%20Images/Robot%20Side%20Top.jpeg" alt="Differential drive robot with electronics and custom PCB" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sdqxmd/Smart-Irrigation-System">
-    <img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Smart-Irrigation-System/main/Images/IMG20260418163030.jpg.jpeg" alt="Solar-powered irrigation prototype with sensors and pump" />
-  </a>
-</p>
+<h3 align="center">🧩 More from the Electronics Bench</h3>
 
 <p align="center">
-  <sub>Differential Drive Robot · Smart Irrigation System</sub>
+  <sub>Exploring digital logic, sensing, and control through smaller builds.</sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sdqxmd/Uroflowmeter">
-    <img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Uroflowmeter/main/GUI%20Image.jpeg" alt="Uroflowmeter Python monitoring interface" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-">
-    <img width="44%" src="https://raw.githubusercontent.com/sdqxmd/Mobile-Robot-Autonomous-Bluetooth-/main/image.png" alt="Arduino mobile robot with ultrasonic sensing and Bluetooth" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Uroflowmeter GUI · Multi-Mode Mobile Robot</sub>
-</p>
-
-</details>
-
-<details>
-<summary><b>🧩 More from the electronics bench</b></summary>
-
-<br />
-
-- 🔢 **[BCD-to-Decimal Converter](https://github.com/sdqxmd/BCD-To-Decimal-Converter)**  
-  Digital logic with an IC 7447, DIP switches, and a seven-segment display.
-
-- 📡 **[Arduino Detection & Tracking Prototype](https://github.com/sdqxmd/Missile-Defence-System-Prototype)**  
-  An educational demonstration of ultrasonic detection, simulated servo tracking, and visual/audio alerts.
-
-</details>
+<table align="center">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🔢 BCD-to-Decimal Converter</h3>
+      <p>
+        A digital logic project using an IC 7447,
+        DIP switches, and a seven-segment display.
+      </p>
+      <p>
+        <code>Digital Logic</code>
+        <code>IC 7447</code>
+        <code>7-Segment Display</code>
+      </p>
+      <p>
+        <a href="https://github.com/sdqxmd/BCD-To-Decimal-Converter">
+          <b>Explore the project →</b>
+        </a>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📡 Detection &amp; Tracking Prototype</h3>
+      <p>
+        An educational Arduino demonstration of ultrasonic detection,
+        simulated servo tracking, and visual/audio alerts.
+      </p>
+      <p>
+        <code>Arduino</code>
+        <code>Ultrasonic</code>
+        <code>Servo Control</code>
+      </p>
+      <p>
+        <a href="https://github.com/sdqxmd/Missile-Defence-System-Prototype">
+          <b>Explore the project →</b>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -353,9 +426,14 @@ and Bluetooth-controlled operation.
 
 ## Let's Connect
 
-Have an idea involving **circuits, control, or robotics**?
+<p align="center">
+  Have an idea involving <b>circuits, control, or robotics?</b>
+</p>
 
-I'm interested in projects that connect **simulation, embedded intelligence, and working hardware**.
+<p align="center">
+  I'm interested in projects that connect
+  <b>simulation, embedded intelligence, and working hardware.</b>
+</p>
 
 <p align="center">
   <a href="mailto:mohdsadique6970942@gmail.com">
